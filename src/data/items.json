@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "MacBook Pro",
+        "price": 1200,
+        "imgUrl": "/images/macbook.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Clean Code Book",
+        "price": 30.25,
+        "imgUrl": "/images/book.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Iphone 13 Pro",
+        "price": 750.999,
+        "imgUrl": "/images/iphone.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Mechanical Keyboard",
+        "price": 150,
+        "imgUrl": "/images/keyboard.jpeg"
+    }
+]
